@@ -1,9 +1,12 @@
+![Photo](logoForCVmd.JPG)  
+
+---
 # Artem Kryzhanivskyi
 
-Details
-
-Kyiv
+### Details Kyiv
 
 artemslims1@gmail.com
 
-Links 
+Links
+
+---
