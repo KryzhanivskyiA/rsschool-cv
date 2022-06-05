@@ -32,7 +32,6 @@ a:hover {
   width: 300px;
   border-radius: 30px;
   margin-left: 20 px;
-  
 }
 
 .bg-yellow {
@@ -71,18 +70,29 @@ li {
 }
 
 .info-text {
-    margin-left: 30px;
+  margin-left: 30px;
 }
 
 .info-text p {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .code {
-    margin-left: 20 px;
-    background: #809fff;
-    margin-bottom: 20px;
-    padding: 15px 40px;
-    margin: 15px;
-    border-radius: 20px;
+  margin-left: 20 px;
+  background: #809fff;
+  margin-bottom: 20px;
+  padding: 15px 40px;
+  margin: 15px;
+  border-radius: 20px;
+  display: flex;
+}
+.project {
+  margin-left: 20px;
+}
+.git {
+  margin-left: 20px;
+}
+.logo {
+  width: 50px;
+  margin: 50px 50px;
 }
