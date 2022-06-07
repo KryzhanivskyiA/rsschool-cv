@@ -10,11 +10,12 @@ a:hover {
 
 .body {
   padding-top: 20px;
-  background-color: #f1f1f1;
+  background-color: #e0ebeb;
   max-width: 900px;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
   margin: auto;
+  border-radius: 7px;
 }
 
 .info {
@@ -32,28 +33,27 @@ a:hover {
   width: 300px;
   border-radius: 30px;
   margin-left: 20 px;
-  
 }
 
 .bg-yellow {
   margin-bottom: 20px;
   padding: 15px 40px;
   margin: 15px;
-  background: #fff9dc;
+  background: #ffff80;
 }
 
 .bg-green {
   margin-bottom: 20px;
   padding: 15px 40px;
   margin: 15px;
-  background: #e5ffe7;
+  background: #d9ffb3;
 }
 
 .bg-red {
   margin-bottom: 20px;
   padding: 15px 40px;
   margin: 15px;
-  background: #ffe5e5;
+  background: #ffcce6;
 }
 
 .skills {
@@ -71,18 +71,34 @@ li {
 }
 
 .info-text {
-    margin-left: 30px;
+  margin-left: 30px;
 }
 
 .info-text p {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .code {
-    margin-left: 20 px;
-    background: #809fff;
-    margin-bottom: 20px;
-    padding: 15px 40px;
-    margin: 15px;
-    border-radius: 20px;
+  margin-left: 20 px;
+  background: #809fff;
+  margin-bottom: 20px;
+  padding: 15px 40px;
+  margin: 15px;
+  border-radius: 20px;
+  display: flex;
+}
+.project {
+  margin-left: 20px;
+}
+.git {
+  margin-left: 20px;
+}
+.logo {
+  width: 50px;
+  margin: 50px 50px;
+}
+.year {
+  text-align: right;
+  margin-right: 20px;
+  font-size: large;
 }
